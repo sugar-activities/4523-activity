@@ -1,0 +1,9 @@
+[Activity]
+name = Pointillism 
+activity_version = 8
+bundle_id = org.laptop.community.Pointillism
+exec = sugar-activity activity.Activity
+show_launcher = yes
+icon = activity
+license = GPLv3+
+summary = Creates a pointillist image from the camera captures
